@@ -1,0 +1,2 @@
+NAME    UUID                                  TYPE      DEVICE 
+ens192  03da7500-2101-c722-2438-d0d006c28c73  ethernet  ens192 
